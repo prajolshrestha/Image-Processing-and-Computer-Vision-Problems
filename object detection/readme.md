@@ -1,5 +1,5 @@
 
-# Object detection in Images and in videos.
+# Object detection in Images and in videos (Realtime).
 
 we can use webcam to detect objects.
 
